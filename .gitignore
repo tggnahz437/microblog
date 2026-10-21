@@ -1,0 +1,21 @@
+# Python Virtual Environment
+venv/
+.venv/
+
+# Python Cache
+__pycache__/
+*.py[cod]
+
+# SQLite databases
+*.db
+*.sqlite3
+
+# Flask local instance data
+instance/
+
+# Environment variables and secrets
+.env
+.env.*
+
+# macOS
+.DS_Store
